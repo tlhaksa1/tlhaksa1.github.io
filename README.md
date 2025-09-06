@@ -1,2 +1,2 @@
-# Tenzin Lhaksampa
-Website repository
+# tlhaksa1.github.io 
+Tenzin Lhaksampa's website repository
