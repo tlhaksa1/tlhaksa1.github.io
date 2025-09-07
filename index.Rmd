@@ -17,7 +17,7 @@ output:
 ## [`r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` Bio]{style="color:  #030303;"}
 
 |  |
-|:-----------------------------------------------------------------------|
+|:---|
 | Welcome! I am Tenzin Lhaksampa, a 4th-year PhD candidate in the Department of Mental Health at the Johns Hopkins Bloomberg School of Public Health. My research interests include the prevention of child maltreatment, intimate partner violence, and adverse mental and physical health outcomes and the promotion of wellbeing/flourishing. In my research roles, I used REDCap and Epic to gather study data. My data analysis journey started with STATA and since then, I have expanded to Python, MySQL, and some R. I am excited to delve deeper into R and to use the Statistical Computing course to analyze the quantitative portion of my dissertation. |
 
 ------------------------------------------------------------------------
