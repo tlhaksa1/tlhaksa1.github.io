@@ -1,0 +1,62 @@
+---
+title: "Tenzin C Lhaksampa, MHS"
+image: headshot.jpg
+links:
+- label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
+  url: https://github.com/tlhaksa1/tlhaksa1.github.io 
+- label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+  url: https://www.linkedin.com/in/tenzinclhaksampa/
+- label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
+  url: "https://orcid.org/0000-0002-1272-1329"
+- label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+  url: mailto:tlhaksa1@jhu.edu
+output:
+    postcards::trestles
+---
+
+## [`r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` Bio]{style="color:  #030303;"}
+
+|  |
+|:-----------------------------------------------------------------------|
+| Welcome! I am Tenzin Lhaksampa, a 4th-year PhD candidate in the Department of Mental Health at the Johns Hopkins Bloomberg School of Public Health. My research interests include the prevention of child maltreatment, intimate partner violence, and adverse mental and physical health outcomes and the promotion of wellbeing/flourishing. In my research roles, I used REDCap and Epic to gather study data. My data analysis journey started with STATA and since then, I have expanded to Python, MySQL, and some R. I am excited to delve deeper into R and to use the Statistical Computing course to analyze the quantitative portion of my dissertation. |
+
+------------------------------------------------------------------------
+
+## [`r fontawesome::fa("graduation-cap", fill = "#030303")` Education]{style="color:  #030303;"}
+
+|                                                     |
+|:----------------------------------------------------|
+| **Johns Hopkins Bloomberg School of Public Health** |
+| Doctor of Philosophy (PhD), Public health           |
+| Expected graduation: August 2026                    |
+| <br>                                                |
+| **Johns Hopkins Bloomberg School of Public Health** |
+| Master of Health Science(MHS), Public Health        |
+| 2017-2018                                           |
+
+------------------------------------------------------------------------
+
+## [`r fontawesome::fa("file-lines", fill = "#030303")` Publications]{style="color:  #030303;"}
+
+1\. Miller L, **Lhaksampa TC**, Walker A, Aquirre C, DeCamp M, Harrigan K, Meuchel JM, Meyer AM, Nesbitt B, Sthapit S, Straub J, Virgadamo D, Zirikly A, Dredze M, Chisolm MS, Zandi PP. Results from a Randomized Trial of a Dashboard Intervention for Tracking Digital Social Media Activity in Clinical Care of Individuals with Mood and Anxiety Disorders. JMIR Ment Health. *JMIR Res Protoc (In press)*. [doi:10.2196/74212](http://dx.doi.org/10.2196/74212)
+
+2\. Nesbitt B, Virgadamo D, Aguirre C, DeCamp M, Dredze M, Harrigian K, **Lhaksampa TC**, Meuchel JM, Meyer AM, Walker A, Zirikly A, Chisolm MS, Zandi PP, Miller L . (2025). Testing a Dashboard Intervention for Tracking Digital Social Media Activity in Clinical Care of Individuals With Mood and Anxiety Disorders: Protocol and Design Considerations for a Pragmatic Randomized Trial. *JMIR Res Protoc, 14*(1), e63279. [doi: 10.2196/63279](https://www.researchprotocols.org/2025/1/e63279/)
+
+3\. **Lhaksampa TC**, Grant B, Fix RL. (2024). The impact of early violence exposure on adolescent flourishing: is there light at the end of the tunnel?. *Journal of Prevention 45*(2), 269-85. [doi:10.1007/s10935-024-00765-3](https://www.proquest.com/docview/3020232178?fromopenview=true&parentSessionId=1jeBROLcAdRZIoEn3gQAKfMtqPOeufFBI6NX1i5m64w%3D&pq-origsite=gscholar&accountid=11752&sourcetype=Scholarly%20Journals)
+
+4\. Kelly-Hedrick M, **Lhaksampa TC**, Chisolm MS, Miller L. (2023) What does it mean to flourish? Piloting the flourishing measure with adolescents and young adults with mood and anxiety disorders. *Clinical Child Psychology and Psychiatry, 28*(4). <doi:1612-22>.[10.1177/13591045221143898](https://doi.org/10.1177/13591045221143898)
+
+5\. Vidal C, **Lhaksampa TC**, Miller L, Platt R. 2020Social media use and depression in adolescents: a scoping review. *International Review of Psychiatry, 32*(3):235-53. [doi:10.1080/09540261.2020.1720623](https://doi.org/10.1080/09540261.2020.1720623)
+
+------------------------------------------------------------------------
+
+## [Fun Facts]{style="color:  #030303;"}
+
+-   👪 I am named after the Dalai Lama and share the same first name with many of my family members and relatives.
+-   🌭 Recently, I had a classic American-style hot dog for the first time.
+-   🏠 I am originally from Tibet ⛰️ and consider Los Angeles 🌆 my second home.
+-   🏋️‍♀️ I like strength training and swimming 🏊‍♀️.
+
+------------------------------------------------------------------------
+
+[Last Updated: 2025-09-06]{style="color: #7F7F7F; font-size: 14px"}
