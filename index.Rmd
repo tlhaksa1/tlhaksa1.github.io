@@ -3,7 +3,7 @@ title: "Tenzin C Lhaksampa, MHS"
 image: headshot.jpg
 links:
 - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
-  url: https://github.com/tlhaksa1/
+  url: https://github.com/tlhaksa1
 - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
   url: https://www.linkedin.com/in/tenzinclhaksampa/
 - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
